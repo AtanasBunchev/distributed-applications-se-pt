@@ -1,0 +1,4 @@
+[submodule "course-work/Implementations/sky_hawk"]
+	path = course-work/Implementations/sky_hawk
+	url = https://github.com/AtanasBunchev/sky_hawk.git
+	branch = main
